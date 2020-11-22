@@ -1,15 +1,15 @@
 #### Hello there 👋
 
  # About me : 
-  # I'm Lakshmi Narayanan, a 17 years-old guy, who loves programming. 
-  # I prefer trees and a cup of tea with OVER headphones and GAME-ON.
-  # A Morning-bird.
-  # Loves to talk anything about programming.
- # Introvert, trying to become an extrovert.
- # There is 3 points in life. 2 points are not in your control. The only thing under your control is the distance between the first and the last point.
-# The distance between the birth and the death is the only thing under your control. 
-#  So,
-  # "Live a life, you'll remember."
+  I'm Lakshmi Narayanan, a 17 years-old guy, who loves programming. 
+  I prefer trees and a cup of tea with OVER headphones and GAME-ON.
+   A Morning-bird.
+   Loves to talk anything about programming.
+ Introvert, trying to become an extrovert.
+  There is 3 points in life. 2 points are not in your control. The only thing under your control is the distance between the first and the last point.
+ The distance between the birth and the death is the only thing under your control. 
+  So,
+ "Live a life, you'll remember."
         
  # Experiences:     Date [22/11/2020]
   ✨ C++: 2 years(From my high-school)
