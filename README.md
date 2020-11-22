@@ -10,6 +10,8 @@
  The distance between the birth and the death is the only thing under your control. 
   So,
  "Live a life, you'll remember."
+ 
+ Many projects are yet to upload.
         
  # Experiences:     Date [22/11/2020]
   ✨ C++: 2 years(From my high-school)
