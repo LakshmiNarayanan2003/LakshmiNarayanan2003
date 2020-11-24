@@ -2,7 +2,7 @@
 
  # About me : 
   I'm Lakshmi Narayanan, a 17 years-old guy, who loves programming. 
-  I prefer trees and a cup of tea with OVER headphones and GAME-ON.
+  I prefer Trees and a cup of Tea with OVER headphones and game-on.
    A Morning-bird.
    Loves to talk anything about programming.
  Introvert, trying to become an extrovert.
