@@ -1,13 +1,13 @@
 #### Hello there 👋
 
  # About me : 
-  I'm Lakshmi Narayanan, a 17 year-old guy, who loves programming. 
+  I'm Lakshmi Narayanan, a 17 year-old-guy, who loves programming. 
   I prefer Trees and a cup of Tea with OVER headphones and game-on.
    A Morning-bird.
    Loves to talk anything about programming.
  Introvert, trying to become an extrovert.
-  There is 3 points in life. 2 points are not in your control. The only thing under your control is the distance between the first and the last point.
- The distance between the birth and the death is the only thing under your control. 
+  There are 3 points in life. 2 points are not in your control. The only thing under your control is the distance between the first and the last point.
+ The distance between birth and death is the only thing under your control. 
   So,
  "Live a life, you'll remember."
  
