@@ -42,9 +42,9 @@
 A social-platform app.
 
 # Currently learning :
-More about Flutter.
+More about Flutter.More about Python.
 Online classes starts tommorow,
-More about Python.
+
 
 # Looking for help :
 Really need a mentor who connects with me and helps me solve my Flutter doubts.
