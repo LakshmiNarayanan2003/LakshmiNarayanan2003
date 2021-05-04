@@ -27,12 +27,14 @@
         
         
  # What I have done :        
-✨ I'm experienced in Flutter mobile app development, created several apps for family groups, friends such as Chat app, Xylophone app, a social-platform app, Wiz Card app, Weather app, and other small apps. Coming to Python, I'm not really experienced in Python, but I'm into exploring it more. I've created several apps with Python for mobile(which i regretted later for not knowing Flutter at that time) using the Kivy library, A Book-Managar database app for desktops,  I created a Motivational app which gives random quotes on Lockscreen, I've created a Dictionary app using hard logic of-course, I've created a YT video Downloader app which is no longer available(Because of the removal of a package). I've worked on Face detection,  Web Scrapping, Volcano & population maps, Email sender.., etc. C++, I'm good with problem solving, errors compiling. I've created a Railway reservation system, nothing special with C++.
+✨ I'm experienced in Flutter mobile app development, created several apps for family groups, friends such as Chat app, Xylophone app, a social-platform app, Wiz Card app, Weather app, and other small apps.
+- Coming to Python, I'm not really experienced in Python, but I'm into exploring it more. I've created several apps with Python for mobile(which i regretted later for not knowing Flutter at that time) using the Kivy library, A Book-Managar database app for desktops,  I created a Motivational app which gives random quotes on Lockscreen, I've created a Dictionary app using hard logic of-course, I've created a YT video Downloader app which is no longer available(Because of the removal of a package). 
+- I've worked on Face detection,  Web Scrapping, Volcano & population maps, Email sender.., etc. C++, I'm good with problem solving, errors compiling. I've created a Railway reservation system, nothing special with C++.
       
 
 # Shocked(just a small thing)
   I always wanted to work on hard things. I wanted to create a Instagram clone(which I later created using Flutter and Firebase(as the database)). So I was having my dinner and I was just googling random things like, what is the popular programming language and stuff. And, I googled "Programming language in which Instagram is created" and Google popped up with a bold, huge text "Python". I was real real shocked. Like wtf, I worked on Python for 6 months and I found nothing about that?!
-  Yeah, maybe in 2011, Python was not famous, but was pretty neat.. Like now, Flutter is not real famous, but is real good.
+  Yeah, maybe in 2011, Python was not famous, but was pretty neat.. Like now, Flutter is not real famous, but is real good. So, just digging more!
   
 # How to reach me : 
   My email : lnarayanan47@gmail.com | |
@@ -42,8 +44,8 @@
 A social-platform app.
 
 # Currently learning :
-More about Flutter.More about Python.
-Online classes starts tommorow,
+More about this virtual world
+
 
 
  # tl-dr
@@ -51,14 +53,3 @@ Online classes starts tommorow,
 <!--
 **LakshmiNarayanan2003/LakshmiNarayanan2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
