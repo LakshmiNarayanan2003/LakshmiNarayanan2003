@@ -11,7 +11,7 @@
   So,
  "Live a life, you'll remember."
  
- Many projects are yet to upload.
+ Many projects are yet to uploaded.
         
  # Experiences:     Date [22/11/2020]
   ✨ C++: 2 years(From my high-school)
@@ -46,8 +46,6 @@ More about Flutter.More about Python.
 Online classes starts tommorow,
 
 
-# Looking for help :
-Really need a mentor who connects with me and helps me solve my Flutter doubts.
  # tl-dr
  I like programming.
 <!--
