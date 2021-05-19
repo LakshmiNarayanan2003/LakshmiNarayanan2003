@@ -2,27 +2,25 @@
 
  # About me : 
   I'm Lakshmi Narayanan, a 17 year-old-guy, who loves programming. 
-  I prefer Trees and a cup of Tea with OVER headphones and game-on.
-   A Morning-bird.
-   Loves to talk anything about programming.
- Introvert, trying to become an extrovert.
+  A Morning-bird.
+  Loves to talk anything about programming.
+  Introvert, trying to become an extrovert.
   There are 3 points in life. 2 points are not in your control. The only thing under your control is the distance between the first and the last point.
- The distance between birth and death is the only thing under your control. 
+  The distance between birth and death is the only thing under your control. 
   So,
- "Live a life, you'll remember."
- 
- Many projects are yet to uploaded.
+  "Live a life, you'll remember."
+
         
  # Experiences:     Date [19/05/2021]
   ✨ C++: 2 years(From my high-school)
   ✨ MySQL : 1 year(From my high-school)
-  ✨ Python:6-months(Self-taught)
-  ✨ Dart & Flutter :4-months(Self-taught)
+  ✨ Python: 1 year(Self-taught)
+  ✨ Dart & Flutter : 1.5 year(Self-taught)
    
    C++, oh well, I was taught c++ in my high-school. And there begins my love for programming. I was really really lucky to get an awesome teacher for my Computer Science in high-school. Never got distracted in my CS classes. Skipped multiple Physics classes to go to the computer lab to learn something new. Yeah, since it was just school, I was taught only the basics and I never knew what was c++ capable of. Quarantine has taught me many things and the answer for the previous talk was given. 
   ✨ MySQL, not pretty much, I just worked on it for the assignments and the tests as I did not find it interesting. As always, realized later about Databases and how they shape the internet world. 
   ✨ Python, I started learning it while I wanted to quit gaming(Was really addicted to a game CSGO). I started learning it as it was one of the most demanded languages in 2020. Well, it was quite easy at the first. I put in 5 hours a day learning Python. While it came to implementation and doing stuff, I found it feasible. Learned a-lot from Python as it was for research purposes. After I completed exploring Python(No actually not, realized later that I did not explore much, check #shocked), after I made the Dictionary app, I was interested in Mobile App Dev, so, started to look for the perfect tool. And here comes, Dart & Flutter.
-  ✨ I put in 12 hours a day learning Flutter. I loved every part, every widget, it was like, made ready, for me to use. Never got bored or procastinated in the case of flutter as it was a fantastic tool for me to kill time.
+  ✨ I put in 12 hours a day learning Flutter. I loved every part, every widget, it was like, made ready, for me to use. Never got bored or procastinated in the case of flutter as it was a fantastic tool for me to kill time. (EDIT 19/05/2021 : I have worked on almost every widget in flutter & have also created an app which is published on playstore.)
    
         
 
