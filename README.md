@@ -34,8 +34,8 @@
   
 # How to reach me : 
   My email : lnarayanan47@gmail.com | |
-  Twitter  :  https://twitter.com/SLN20032020 | |
-  LinkedIn : https://www.linkedin.com/in/lakshmi-narayanan-a699481aa/
+  Twitter  :  https://twitter.com/LNofficiall | |
+  LinkedIn : https://www.linkedin.com/in/lakshmi-narayanan-s/
 
 # Currently working on :
    A big dream. You guys will know & use for sure!
