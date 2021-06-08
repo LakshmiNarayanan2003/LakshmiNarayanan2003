@@ -38,7 +38,7 @@
   LinkedIn : https://www.linkedin.com/in/lakshmi-narayanan-s/
 
 # Currently working on :
-   A big dream. You guys will know & use for sure!
+   A big dream.
 # Currently learning :
 More about this virtual world
 
