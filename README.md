@@ -10,7 +10,7 @@
  
 
         
- # Experiences:     Date [25/12/2021]
+ # Experiences: [Last Edit: 25/12/2021]
   ✨ C++: 3 years(From my high-school)
   ✨ MySQL : 2 years(From my high-school)
   ✨ Python: 2 years(Self-taught)
