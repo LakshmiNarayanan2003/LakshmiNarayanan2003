@@ -32,7 +32,8 @@
  # What I have done :        
 ✨ I'm experienced in Flutter mobile app development, created several apps for family groups, friends such as Chat app, Xylophone app, a social-platform app, Wiz Card app, Weather app, and other small apps.
 
-✨ I've published my first flutter app on playstore. It's called ResPic. ResPic is the recipe app you need with a drizzle of machine learning(ML). Search recipes with more than 1000+ options to find the exact recipe you need and more! Download link : https://play.google.com/store/apps/details?id=com.rachinc.respic
+✨ I've published my first flutter app on playstore. It's called ResPic. ResPic is the recipe app you need with a drizzle of machine learning(ML). Search recipes with more than 1000+ options to find the exact recipe you need and more! 
+Download link : https://play.google.com/store/apps/details?id=com.rachinc.respic
 
 - Coming to Python, I'm not really experienced in Python, but I'm into exploring it more. I've created several apps with Python for mobile(which i regretted later for not knowing Flutter at that time) using the Kivy library, A Book-Managar database app for desktops,  I created a Motivational app which gives random quotes on Lockscreen, I've created a Dictionary app using hard logic of-course, I've created a YT video Downloader app which is no longer available(Because of the removal of a package). 
 
@@ -40,7 +41,7 @@
       
   
 # How to reach me : 
-  My email : lnarayanan47@gmail.com 
+  Email : lnarayanan47@gmail.com 
   
   Twitter  :  https://twitter.com/LNofficiall 
   
