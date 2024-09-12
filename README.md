@@ -10,7 +10,6 @@
 
 - 🌱 Currently learning more about this virtual world.
 - 🥅 2024 Goals: Develop efficient applications for production.
-- 🌐 Website: http://www.lakshminarayanan.ml/
 - 📫 Reach to me, through mail: Lnarayanan47@gmail.com
 
 
